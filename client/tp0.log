@@ -1,0 +1,18 @@
+[INFO] 19:20:12:308 client/(18561:18561): Soy un Log
+[INFO] 19:20:12:317 client/(18561:18561): 127.0.0.1
+[INFO] 19:20:12:317 client/(18561:18561): 4444
+[INFO] 19:20:12:317 client/(18561:18561): valor
+[INFO] 19:20:20:250 client/(18561:18561): esto va al log
+[INFO] 19:20:23:082 client/(18561:18561): esto tambien
+[INFO] 19:26:42:205 client/(18986:18986): Soy un Log
+[INFO] 19:26:42:566 client/(18986:18986): 127.0.0.1
+[INFO] 19:26:42:566 client/(18986:18986): 4444
+[INFO] 19:26:42:566 client/(18986:18986): valor
+[INFO] 19:26:49:504 client/(18986:18986): log
+[INFO] 19:26:57:168 client/(18986:18986): loggueando
+[INFO] 19:27:49:392 client/(19061:19061): Soy un Log
+[INFO] 19:27:49:465 client/(19061:19061): 127.0.0.1
+[INFO] 19:27:49:465 client/(19061:19061): 4444
+[INFO] 19:27:49:465 client/(19061:19061): valor
+[INFO] 19:27:55:574 client/(19061:19061): nad nada nara
+[INFO] 19:27:58:710 client/(19061:19061): ffdfsd

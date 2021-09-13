@@ -1,0 +1,25 @@
+[INFO] 19:06:58:860 Servidor/(17697:17697): Servidor listo para recibir al cliente
+[INFO] 19:07:12:987 Servidor/(17726:17726): Servidor listo para recibir al cliente
+[INFO] 19:19:40:963 Servidor/(18507:18507): Servidor listo para recibir al cliente
+[INFO] 19:20:25:313 Servidor/(18507:18507): Se conecto un cliente!
+[INFO] 19:20:25:314 Servidor/(18507:18507): Me llego el mensaje valor
+[ERROR] 19:20:25:314 Servidor/(18507:18507): el cliente se desconecto. Terminando servidor
+[INFO] 19:26:27:745 Servidor/(18942:18942): Servidor listo para recibir al cliente
+[INFO] 19:26:59:799 Servidor/(18942:18942): Se conecto un cliente!
+[INFO] 19:26:59:821 Servidor/(18942:18942): Me llego el mensaje valor
+[INFO] 19:27:07:408 Servidor/(18942:18942): Me llegaron los siguientes valores:
+
+[INFO] 19:27:07:408 Servidor/(18942:18942): para eñ servidor
+[ERROR] 19:27:07:408 Servidor/(18942:18942): el cliente se desconecto. Terminando servidor
+[INFO] 19:27:27:303 Servidor/(19043:19043): Servidor listo para recibir al cliente
+[INFO] 19:28:01:023 Servidor/(19043:19043): Se conecto un cliente!
+[INFO] 19:28:01:024 Servidor/(19043:19043): Me llego el mensaje valor
+[INFO] 19:28:20:278 Servidor/(19043:19043): Me llegaron los siguientes valores:
+
+[INFO] 19:28:20:278 Servidor/(19043:19043): relaitoo
+[INFO] 19:28:20:278 Servidor/(19043:19043): korteo tregalor
+[INFO] 19:28:20:278 Servidor/(19043:19043): palomita
+[INFO] 19:28:20:278 Servidor/(19043:19043): palomon
+[INFO] 19:28:20:278 Servidor/(19043:19043): listo
+[INFO] 19:28:20:278 Servidor/(19043:19043): enter
+[ERROR] 19:28:20:279 Servidor/(19043:19043): el cliente se desconecto. Terminando servidor
