@@ -69,7 +69,7 @@ t_log* iniciar_logger(void) {
 }
 
 t_config* iniciar_config(void) {
-	return config_create("/home/utnso/tp0/client/cliente.config");
+	return config_create("cliente.config");
 }
 
 void leer_consola(t_log* logger) {
