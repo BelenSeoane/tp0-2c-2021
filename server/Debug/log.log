@@ -1,0 +1,50 @@
+[INFO] 17:31:15:985 Servidor/(4894:4894): Servidor listo para recibir al cliente
+[INFO] 17:49:46:661 Servidor/(5782:5782): Servidor listo para recibir al cliente
+[INFO] 17:49:52:612 Servidor/(5790:5790): Servidor listo para recibir al cliente
+[INFO] 18:18:47:796 Servidor/(6632:6632): Servidor listo para recibir al cliente
+[INFO] 18:23:42:147 Servidor/(6792:6792): Servidor listo para recibir al cliente
+[INFO] 18:24:00:662 Servidor/(6792:6792): Se conecto un cliente!
+[INFO] 18:24:00:663 Servidor/(6792:6792): Me llego el mensaje valor
+[INFO] 18:24:21:812 Servidor/(6792:6792): Me llegaron los siguientes valores:
+
+[INFO] 18:24:21:813 Servidor/(6792:6792): siiiiiiii
+[INFO] 18:24:21:813 Servidor/(6792:6792): palomon
+[INFO] 18:24:21:813 Servidor/(6792:6792): cualqauighwrer cosa
+[ERROR] 18:24:21:813 Servidor/(6792:6792): el cliente se desconecto. Terminando servidor
+[INFO] 18:26:05:362 Servidor/(6834:6834): Servidor listo para recibir al cliente
+[INFO] 18:26:11:438 Servidor/(6834:6834): Se conecto un cliente!
+[INFO] 18:26:11:439 Servidor/(6834:6834): Me llego el mensaje valor
+[INFO] 18:26:16:557 Servidor/(6834:6834): Me llegaron los siguientes valores:
+
+[INFO] 18:26:16:558 Servidor/(6834:6834): fdasdfasd
+[INFO] 18:26:16:558 Servidor/(6834:6834): dafasfdddddddddddddddd
+[ERROR] 18:26:16:559 Servidor/(6834:6834): el cliente se desconecto. Terminando servidor
+[INFO] 18:26:56:117 Servidor/(6839:6839): Servidor listo para recibir al cliente
+[INFO] 18:29:13:810 Servidor/(6839:6839): Se conecto un cliente!
+[INFO] 18:29:13:811 Servidor/(6839:6839): Me llego el mensaje valor
+[INFO] 18:29:20:891 Servidor/(6839:6839): Me llegaron los siguientes valores:
+
+[INFO] 18:29:20:892 Servidor/(6839:6839): fdsfsafd
+[INFO] 18:29:20:892 Servidor/(6839:6839): llego?
+[ERROR] 18:29:20:892 Servidor/(6839:6839): el cliente se desconecto. Terminando servidor
+[INFO] 18:32:15:580 Servidor/(7098:7098): Servidor listo para recibir al cliente
+[INFO] 18:32:20:471 Servidor/(7098:7098): Se conecto un cliente!
+[INFO] 18:32:20:471 Servidor/(7098:7098): Me llego el mensaje valor
+[INFO] 18:32:23:680 Servidor/(7098:7098): Me llegaron los siguientes valores:
+
+[INFO] 18:32:23:681 Servidor/(7098:7098): ghhjhjhj
+[ERROR] 18:32:23:681 Servidor/(7098:7098): el cliente se desconecto. Terminando servidor
+[INFO] 18:32:43:915 Servidor/(7103:7103): Servidor listo para recibir al cliente
+[INFO] 18:34:14:550 Servidor/(7103:7103): Se conecto un cliente!
+[INFO] 18:34:14:551 Servidor/(7103:7103): Me llego el mensaje valor
+[INFO] 18:34:16:238 Servidor/(7103:7103): Me llegaron los siguientes valores:
+
+[INFO] 18:34:16:239 Servidor/(7103:7103): hjhj
+[ERROR] 18:34:16:239 Servidor/(7103:7103): el cliente se desconecto. Terminando servidor
+[INFO] 18:34:22:680 Servidor/(7181:7181): Servidor listo para recibir al cliente
+[INFO] 18:34:28:505 Servidor/(7181:7181): Se conecto un cliente!
+[INFO] 18:34:28:505 Servidor/(7181:7181): Me llego el mensaje valor
+[INFO] 18:34:33:455 Servidor/(7181:7181): Me llegaron los siguientes valores:
+
+[INFO] 18:34:33:456 Servidor/(7181:7181): jkjkjk
+[ERROR] 18:34:33:457 Servidor/(7181:7181): el cliente se desconecto. Terminando servidor

@@ -24,12 +24,18 @@ int iniciar_servidor(void)
 
 	// Asociamos el socket a un puerto
 
-	bind(socket_servidor, servinfo->ai_addr, servinfo->ai_addrlen);
+    for (p=servinfo; p != NULL; p = p->ai_next)
+    {
+        if ((socket_servidor = socket(p->ai_family, p->ai_socktype, p->ai_protocol)) == -1)
+            continue;
 
-	// Escuchamos las conexiones entrantes
-
-	listen(socket_servidor, SOMAXCONN);
-
+        if (bind(socket_servidor, p->ai_addr, p->ai_addrlen) == -1) {
+            close(socket_servidor);
+            continue;
+        }
+        break;
+    }
+    listen(socket_servidor, SOMAXCONN);
 	freeaddrinfo(servinfo);
 	log_trace(logger, "Listo para escuchar a mi cliente");
 

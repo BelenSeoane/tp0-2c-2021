@@ -23,3 +23,26 @@
 [INFO] 19:28:20:278 Servidor/(19043:19043): listo
 [INFO] 19:28:20:278 Servidor/(19043:19043): enter
 [ERROR] 19:28:20:279 Servidor/(19043:19043): el cliente se desconecto. Terminando servidor
+[INFO] 19:39:52:492 Servidor/(7037:7037): Servidor listo para recibir al cliente
+[INFO] 19:56:26:001 Servidor/(7663:7663): Servidor listo para recibir al cliente
+[INFO] 19:56:39:312 Servidor/(7663:7663): Se conecto un cliente!
+[INFO] 19:56:39:313 Servidor/(7663:7663): Me llego el mensaje valor
+[INFO] 19:56:51:992 Servidor/(7663:7663): Me llegaron los siguientes valores:
+
+[INFO] 19:56:51:993 Servidor/(7663:7663): al server
+[INFO] 19:56:51:993 Servidor/(7663:7663): esto al server tmb
+[INFO] 19:56:51:993 Servidor/(7663:7663): palomon
+[ERROR] 19:56:51:993 Servidor/(7663:7663): el cliente se desconecto. Terminando servidor
+[INFO] 17:33:57:603 Servidor/(4984:4984): Servidor listo para recibir al cliente
+[INFO] 17:40:29:445 Servidor/(5401:5401): Servidor listo para recibir al cliente
+[INFO] 17:49:59:932 Servidor/(5808:5808): Servidor listo para recibir al cliente
+[INFO] 17:50:07:706 Servidor/(5815:5815): Servidor listo para recibir al cliente
+[INFO] 18:15:52:955 Servidor/(6588:6588): Servidor listo para recibir al cliente
+[INFO] 18:16:12:187 Servidor/(5808:5808): Se conecto un cliente!
+[INFO] 18:16:12:187 Servidor/(5808:5808): Me llego el mensaje valor
+[INFO] 18:16:27:359 Servidor/(5808:5808): Me llegaron los siguientes valores:
+
+[INFO] 18:16:27:359 Servidor/(5808:5808): esto al servidor
+[INFO] 18:16:27:359 Servidor/(5808:5808): holas
+[INFO] 18:16:27:359 Servidor/(5808:5808): chau me desopido
+[ERROR] 18:16:27:359 Servidor/(5808:5808): el cliente se desconecto. Terminando servidor
