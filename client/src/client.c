@@ -87,7 +87,7 @@ void leer_consola(t_log* logger) {
 
 void paquete(int conexion) {
 	char* leido;
-	t_paquete* paquete = crear_paquete();
+	t_paquete* paquete = crear_super_paquete();
 
 	leido = readline(">");
 
